@@ -8,4 +8,4 @@ Hence, this repo will contain all the solutions I submit for our daily tasks.
 
 ## Author
 ---
-(C) UDO INNOCENT CHARLES
+© **UDO INNOCENT CHARLES**
