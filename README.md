@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.pngall.com/wp-content/uploads/5/Python-PNG-HD-Image.png">
+<img src="https://www.pngall.com/wp-content/uploads/5/Python-PNG-Picture.png">
 </p>
 
 # Solutions to Python related tasks.
