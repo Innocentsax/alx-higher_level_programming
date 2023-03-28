@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://www.pngall.com/wp-content/uploads/5/Python-PNG-HD-Image.png">
+</p>
+
 # Solutions to Python related tasks.
 ___
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/Innocentsax/standard-readme)
