@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 def magic_string():
-    my_magic_string = getattr(magic_string, 'n', 0) + 1
-    return ("BestSchool, " * (my_magic_string - 1) + "BestSchool")
+    magic_string.count = getattr(magic_string, 'count', 0) + 1
+    return ", ".join(["BestSchool" for i in range(magic_string.count)])
