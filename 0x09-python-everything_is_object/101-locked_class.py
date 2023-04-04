@@ -1,10 +1,11 @@
-vi #!/usr/bin/python3
-"""Display of a locked class."""
+#!/usr/bin/python3
+"""Defines a locked class."""
 
 
 class LockedClass:
     """
-    Only permit instatiation of attributes called 'first_name'.
+    Prevent the user from instantiating new LockedClass attributes
+    for anything but attributes called 'first_name'.
     """
 
     __slots__ = ["first_name"]
