@@ -1,10 +1,10 @@
 #!/usr/bin/python3
-"""Write a base geometry class BaseGeometry."""
+"""Defines a base geometry class BaseGeometry."""
 
 
 class BaseGeometry:
-    """These supperclass Represent base geometry."""
+    """Represent base geometry."""
 
     def area(self):
         """Not implemented."""
-        raise Exception("area() method is not implemented")
+        raise Exception("area() is not implemented")
