@@ -9,7 +9,7 @@ class Square(Rectangle):
     def __init__(self, size):
         """Initialize a new square.
         Args:
-            size (int): The size of the new square(size must be postive integer).
+            size (int): The size of the new square.
         """
         self.integer_validator("size", size)
         super().__init__(size, size)
