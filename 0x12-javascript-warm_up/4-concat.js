@@ -1,15 +1,5 @@
 #!/usr/bin/node
-/*
-  Write a script that prints two arguments passed to it still using the
-  concept of process.argv
+const argv0 = process.argv[2];
+const argv1 = process.argv[3];
 
-  Author: sammykingx
-
-const firstArg = process.argv[2], secondArg = process.argv[3];
-if (firstArg === undefined || secondArg === undefined) {
-  console.log(firstArg + ' is ' + secondArg);
-} else {
-  console.log(firstArg + ' is ' + secondArg);
-}
-*/
-console.log(process.argv[2] + ' is ' + process.argv[3]);
+console.log(`${argv0} is ${argv1}`);
