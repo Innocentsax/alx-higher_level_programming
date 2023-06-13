@@ -1,12 +1,12 @@
-# 0x12-Javascript
+# Javascript Warm-up
 
-![javascript](https://www.w3docs.com/uploads/media/default/0001/05/4482fe09d95a0be765154b9cefff5e07f7fc32ff.png)
+<img src="https://www.w3docs.com/uploads/media/default/0001/05/4482fe09d95a0be765154b9cefff5e07f7fc32ff.png" width="1200" height="250">
 
 JavaScript is a programming language, and like most programming languages, it has some basic constructs that we’ll look at. A program in JavaScript is like a sequence of steps. Similar to how we give directions to a stranger, a computer needs detailed instructions, defined as steps, to accomplish any simple or complex action.
 
 ## Learning Objectives
 
-![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/303/Javascript-535.png.jpeg)
+<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/303/Javascript-535.png.jpeg" width="1200" height="300">
 
 * Why JavaScript programming is amazing
 * How to run a JavaScript script
@@ -24,6 +24,26 @@ JavaScript is a programming language, and like most programming languages, it ha
 - What are the __arithmetic operators__ and how to use them
 - How to __manipulate dictionary__
 - How to __import a file__
+
+## Resources
+## ___Read or watch:___
+
+- [Writing JavaScript Code](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+- [Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
+- [Data Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+- [Operators](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+- [Operator Precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
+- [Controlling Program Flow](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
+- [Functions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
+- [Objects and Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
+- [Intrinsic Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
+- [Module patterns](http://darrenderidder.github.io/talks/ModulePatterns/#/)
+- [var, let and const](https://www.youtube.com/watch?v=sjyJBL5fkp8)
+- [JavaScript Tutorial](https://www.youtube.com/watch?v=vZBCTc9zHtI)
+- [Modern JS](https://github.com/mbeaudru/modern-js-cheatsheet)
+
+![Modern JavaScript cheatsheet](https://i.imgur.com/aexPxMb.png)
+<!-- <sub>Image Credits: [Ahmad Awais ⚡️](https://github.com/ahmadawais)</sub> -->
 
 ## Requirements
 
@@ -44,3 +64,5 @@ JavaScript is a programming language, and like most programming languages, it ha
 $ sudo apt install -y node
 
 ```
+## Author
+#### ___[UDO INNOCENT CHARLES](https://github.com/Innocentsax)___
