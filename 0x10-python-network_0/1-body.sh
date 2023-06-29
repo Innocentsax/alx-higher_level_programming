@@ -1,3 +1,3 @@
-i#!/bin/bash
-# Takes a URL, sends a GET request to the URL, and displays body of the response
-curl -Lsf "$1"
+#!/bin/bash
+# send a GET request to an URL with curl, and display the body of the response
+curl -sL "$1"
